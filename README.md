@@ -1,3 +1,3 @@
 # README-Resume
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swapnil0908&layout=compact)](https://github.com/swapnil0908/README_Resume)
